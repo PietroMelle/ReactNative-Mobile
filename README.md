@@ -11,7 +11,7 @@ Este repositório reúne os meus exemplos, aprendizados e experimentos desenvolv
 ## 🚀 Tecnologias Utilizadas
 
 - ⚛️ [React Native](https://reactnative.dev/)
-- 🚀 [Expo CLI](https://docs.expo.dev/workflow/expo-cli/)
+- 🚀 [Expo CLI](https://expo.dev/)
 - 📡 Axios para requisições HTTP
 - 📍 React Navigation (pilha, tabs, drawer)
 - 🌐 Integração com APIs RESTful
