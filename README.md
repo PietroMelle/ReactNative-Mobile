@@ -15,3 +15,16 @@ Este repositório reúne os meus exemplos, aprendizados e experimentos desenvolv
 - 📍 React Navigation (pilha, tabs, drawer)
 - 🌐 Integração com APIs RESTful
 - 🎨 Styled Components CSS
+
+![Platform](https://img.shields.io/badge/platform-Android%20%7C%20iOS-blue)
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+
+
+---
+
+## 📬 Contato
+
+Desenvolvido por [Pietro Melle Michelin](https://github.com/PietroMelle)  
+📧 mellepietro3@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/pietro-michelin/)
+
