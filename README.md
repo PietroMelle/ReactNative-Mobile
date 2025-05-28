@@ -16,8 +16,8 @@ Este repositório reúne os meus exemplos, aprendizados e experimentos desenvolv
 - 🌐 Integração com APIs RESTful
 - 🎨 Styled Components CSS
 
-![Plataformas](https://img.shields.io/badge/platform-Android%20%7C%20iOS-blue)
-![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+![Plataformas](https://img.shields.io/badge/Platformas-Android%20%7C%20iOS-blue)
+![Status](https://img.shields.io/badge/Status-em%20desenvolvimento-yellow)
 
 ---
 
