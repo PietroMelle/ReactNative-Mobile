@@ -1,6 +1,6 @@
 # 📱 React Native - Mobile App Development
 
-![React Native](https://img.shields.io/badge/React_Native-2025-blue?logo=react)
+[![React Native](https://img.shields.io/badge/React_Native-2025-blue?logo=react)](https://reactnative.dev/)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Strict-blue?logo=typescript)
 ![Expo](https://img.shields.io/badge/Expo-CLI%20Ready-000020?logo=expo)
 ![License](https://img.shields.io/badge/license-MIT-green)
