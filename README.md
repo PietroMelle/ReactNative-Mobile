@@ -16,7 +16,7 @@ Este repositório reúne os meus exemplos, aprendizados e experimentos desenvolv
 - 🌐 Integração com APIs RESTful
 - 🎨 Styled Components CSS
 
-![Platform](https://img.shields.io/badge/platform-Android%20%7C%20iOS-blue)
+![Plataformas](https://img.shields.io/badge/platform-Android%20%7C%20iOS-blue)
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
 
 ---
@@ -26,13 +26,4 @@ Este repositório reúne os meus exemplos, aprendizados e experimentos desenvolv
 Desenvolvido por [Pietro Melle Michelin](https://github.com/PietroMelle)  
 📧 mellepietro3@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/pietro-michelin/)
-
-## 🧭 Sumário
-
-- [📱 Sobre o Projeto](#-react-native---mobile-app-development)
-- [🚀 Tecnologias Utilizadas](#-tecnologias-utilizadas)
-- [📸 Preview](#-preview)
-- [🛠️ Instalação](#️-instalação)
-- [📌 Funcionalidades](#-funcionalidades)
-- [📄 Licença](#-licença)
 
