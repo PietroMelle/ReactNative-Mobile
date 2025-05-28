@@ -6,6 +6,10 @@
 Este repositório reúne os meus exemplos, aprendizados e experimentos desenvolvidos com **React Native**, focando em aplicações móveis modernas, performáticas e escaláveis. Consedido pelo curso de **Análise e Desenvolvimento de Sistemas (ADS)** do Senai, pelos professores **Antonio Tubinambá** e **Leandro Grosso**. Aqui você encontrará exemplos com **Expo**, integração com **APIs REST**, navegação, temas customizados e muito mais.
 
 ---
+## 📸 Preview
+
+<img src="https://user-images.githubusercontent.com/seu-usuario/exemplo.gif" width="300" alt="App Preview" />
+
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -16,7 +20,7 @@ Este repositório reúne os meus exemplos, aprendizados e experimentos desenvolv
 - 🌐 Integração com APIs RESTful
 - 🎨 Styled Components CSS
 
-![Plataformas](https://img.shields.io/badge/Platformas-Android%20%7C%20iOS-blue)
+![Plataformas](https://img.shields.io/badge/Plataformas-Android%20%7C%20iOS-blue)
 ![Status](https://img.shields.io/badge/Status-em%20desenvolvimento-yellow)
 
 ---
