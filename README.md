@@ -6,10 +6,6 @@
 Este repositório reúne os meus exemplos, aprendizados e experimentos desenvolvidos com **React Native**, focando em aplicações móveis modernas, performáticas e escaláveis. Consedido pelo curso de **Análise e Desenvolvimento de Sistemas (ADS)** do Senai, pelos professores **Antonio Tubinambá** e **Leandro Grosso**. Aqui você encontrará exemplos com **Expo**, integração com **APIs REST**, navegação, temas customizados e muito mais.
 
 ---
-## 📸 Preview
-
-<img src="https://user-images.githubusercontent.com/seu-usuario/exemplo.gif" width="300" alt="App Preview" />
-
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -25,7 +21,7 @@ Este repositório reúne os meus exemplos, aprendizados e experimentos desenvolv
 
 ---
 
-## 📬 Contato
+## 📬 Informações
 
 Desenvolvido por [Pietro Melle Michelin](https://github.com/PietroMelle)  
 📧 mellepietro3@gmail.com  
