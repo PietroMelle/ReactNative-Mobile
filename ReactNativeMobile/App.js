@@ -1,5 +1,5 @@
 import { useState } from "react";
-import {StyleSheet, Text, ScrollView, View, Button, Image, Alert} from "react-native";
+import {StyleSheet, Text, ScrollView, View, Button, Image, Alert, TextInput } from "react-native";
 
 export default function App() {
   function mostrarCurtida() {
@@ -17,6 +17,8 @@ export default function App() {
   function mostrarEditar() {
     Alert.alert("Botão pressionado!", "Parábens, você editou! ✌");
   }
+
+  const [nome, setNome] = useState("");
 
   return (
 
@@ -130,6 +132,29 @@ export default function App() {
       >
         <Button title="Editar" onPress={mostrarEditar} disabled={true} />
       </View>
+
+<Text style={{color: "white", marginTop: 40, fontWeight: "bold", fontSize: 18}}> Testanto TextInput ⬇ </Text>
+
+      <TextInput
+        placeholder="Digite seu nome"
+        value={nome}
+        secureTextEntry={true}
+        onChangeText={setNome}
+        style={{
+          borderWidth: 1,
+          borderColor: "gray",
+          borderRadius: 5,
+          padding: 10,
+          marginTop: 20,
+          width: 300,
+          textAlign: "center",
+          color: "#fff"
+        }}/>
+
+          <Text style={{color: "white", marginTop: 10, marginBottom: 20}}> Olá, {nome ? nome : "Visitante"}! </Text>
+        
+
+
       </View>
       </ScrollView>
 
