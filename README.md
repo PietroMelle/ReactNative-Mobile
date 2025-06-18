@@ -11,7 +11,6 @@ Este repositório reúne os meus exemplos, aprendizados e experimentos desenvolv
 
 - ⚛️ [React Native](https://reactnative.dev/)
 - 🚀 [Expo CLI](https://expo.dev/)
-- 📡 Axios para requisições HTTP
 - 📍 React Navigation (pilha, tabs, drawer)
 - 🌐 Integração com APIs RESTful
 - 🎨 Styled Components CSS
